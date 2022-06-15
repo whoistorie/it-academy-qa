@@ -1,6 +1,4 @@
-Welcome file
-Welcome file
-▲
+
 # QA для Frontend
 
 Этот репозиторий содержит описание заданий в рамках QA сессии для Frontend направления It Academy.
